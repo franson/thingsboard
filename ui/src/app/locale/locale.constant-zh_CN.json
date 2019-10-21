@@ -117,7 +117,7 @@
         "start-time": "开始时间",
         "end-time": "结束时间",
         "ack-time": "应答时间",
-        "clear-time": "创建时间",
+        "clear-time": "清除时间",
         "severity-critical": "危险",
         "severity-major": "重要",
         "severity-minor": "次要",
